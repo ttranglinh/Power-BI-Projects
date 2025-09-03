@@ -24,9 +24,29 @@
 ***3.1. Customer Behavior Overview***
 <img width="1472" height="845" alt="image" src="https://github.com/user-attachments/assets/76e63ccb-7f80-4652-b6ec-59c044902b38" />
 
+#### ***Insights in customer segments:***
 
+- In 2024, **middle income segment** accounts for 45% of the transaction value with the **most active branches** are in Murcia (13.6%) and Malaga (13.2%), Spain. Followed by **high income segment** (around 33% of the total value).
+- There is a peak in transaction value and quantity 📈:
+  - In July 2024 in **middle income**:
+    - *%MoM Growth Rate of Total Transaction Value* rises by 16%;
+    - *%MoM Growth Rate of active customers* increases by 12%
+  - At the end of the year (November, December) 2024 among **high income segment**:
+    - *%MoM Growth Rate of Total Transaction Value* rises by 14%;
+    - *%MoM Growth Rate of active customers* increases by 13%)
 
 ***3.2 Service Analysis***
+<img width="1416" height="792" alt="image" src="https://github.com/user-attachments/assets/f48419a1-aaa6-4006-8183-44b5d68e72d5" />
+
+#### ***Insights in behaviors of customer segments:***
+- While most transactions occur in loans, mortgages generate the highest total transaction value.
+
+| Customer Segment | Commonly used financial products | Distribution of Recommended Offer | Top Channel Used | Top Transaction Type Used |
+| ---------------- | -------------------------------- | --------------------------------- | ---------------- | ------------ |
+| Middle Income | Mortgage (Business Package), Loan (Gold) | Mid-tier Savings Booster | Mobile | Transfer |
+| High Income | Mortgage (PLatinum), Loan (Business) | Premium Investment Services | Mobile | Transfer, Withdrawal | 
+| High Income | Mortgage, Loan | 
+| Low Income | Cell 1, Row 2 |
 
 ***3.3. Risk Analysis***
 
